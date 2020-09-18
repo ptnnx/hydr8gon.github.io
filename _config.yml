@@ -1,0 +1,12 @@
+title: Hydra's Lair
+description: Emulators and Stuff
+
+author: Sean Maas
+email: seanmaas27@gmail.com
+github_username: Hydr8gon
+
+timezone: America/Toronto
+
+theme: minima
+plugins:
+  - jekyll-feed
